@@ -25,6 +25,3 @@ This project demonstrates expertise in **Agentic AI** and **Retrieval-Augmented 
 
 # Install the necessary AI frameworks
 pip install torch langchain pandas arxiv torch-geometric
-
-# Launch the agent for a research query
-python main.py --topic "3D Gaussian Splatting"
